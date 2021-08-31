@@ -3,11 +3,18 @@
     margin: 2.5% 0.5%;
 }
 
+.card-content-wrapper{
+
+    padding: 1% 2%;
+    text-align: left;
+}
+
 .card{
     width: 100%;
     box-shadow: 2px 2px 6px black;
     box-sizing: border-box;
     border-radius: 5px;
+    height: 550px;
 }
 
 .card-image-wrapper{
@@ -35,11 +42,7 @@
     margin: 5% 2.5%;
 }
 
-.card-content-wrapper{
-    height: 150px;
-    padding: 1% 2%;
-    text-align: left;
-}
+
 
 .product-name{
     margin: 0px;
